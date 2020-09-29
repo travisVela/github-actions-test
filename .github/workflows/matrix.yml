@@ -1,5 +1,5 @@
 name: Matrix
-on: push
+on: pull
 jobs:
   node-version:
     strategy:
